@@ -1,2 +1,2 @@
 # ULaval-Data-Mining-Final-Project-using-IBM-SPSS-Modeler
-predicting passenger survival on the Titanic.
+In this project, we focus on classification using the k-nearest neighbors algorithm (K-Nearest Neighbour - KNN), decision trees, and neural networks. We will utilize the 'Titanic' dataset, which contains data from 887 actual Titanic passengers. Each row represents an individual, and the columns describe various attributes of the person, including whether they survived, their age, passenger class, gender, and the fare they paid.
